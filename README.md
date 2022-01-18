@@ -63,3 +63,7 @@ Commands in git stash:
 - ```git stash drop``` --> Delete last stash
 - ```git stash drop stash@{n}``` --> Delete specific stash
 - ```git stash clear``` --> Delete all stash
+
+
+# Reference
+Advanced GIT Nina Zakharenko [here](https://github.com/nnja/advanced-git)
